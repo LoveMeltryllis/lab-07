@@ -1,0 +1,11 @@
+---
+title: "lab-07"
+author: "Linzhuo Li"
+---
+
+### Assessing my progress
+I learned the basics of how to interpret a curated dataset and plan dataset transformation strategies.
+
+In the Recipe #7,I wonder why some punctuation and symbols are tagged as nouns
+
+I learned from [Recipe #7](https://qtalr.github.io/qtalrkit/articles/recipe-7.html#transforming-data)
