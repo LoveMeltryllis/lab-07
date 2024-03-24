@@ -8,4 +8,4 @@ I learned the basics of how to interpret a curated dataset and plan dataset tran
 
 In the Recipe #7,I wonder why some punctuation and symbols are tagged as nouns
 
-I learned from [Recipe #7](https://qtalr.github.io/qtalrkit/articles/recipe-7.html#transforming-data)
+I consulted from [Recipe #7](https://qtalr.github.io/qtalrkit/articles/recipe-7.html#transforming-data)
