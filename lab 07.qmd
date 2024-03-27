@@ -4,8 +4,15 @@ author: "Linzhuo Li"
 ---
 
 ### Assessing my progress
+
+<!-- Good. -->
+
 I learned the basics of how to interpret a curated dataset and plan dataset transformation strategies.
 
-In the Recipe #7,I wonder why some punctuation and symbols are tagged as nouns
+<!-- Tagging is not perfect. Depending on the alignment between the training data for the tagging model and the corpus as well as the complexity of the language to be tagged there can be more or less errors --but it is always advisable to review and diagnose how well the tagger has done after performing the tagging before continuing on to analysis. -->
+
+In the Recipe #7,I wonder why some punctuation and symbols are tagged as nouns.
+
+<!-- Great. -->
 
 I learned from [Recipe #7](https://qtalr.github.io/qtalrkit/articles/recipe-7.html#transforming-data)
