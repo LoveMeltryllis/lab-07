@@ -1,0 +1,11 @@
+---
+title: "lab-11"
+author: "Linzhuo Li"
+---
+
+### Assessing my progress
+I learned how to share my research articles and how to make proper citations.
+
+I think YAML frontmatter is very useful and interesting.
+
+I consulted from [11. Sharing research](https://qtalr.github.io/resources/recipes/recipe-11/)
